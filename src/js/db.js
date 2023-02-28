@@ -10,7 +10,7 @@ var movies = [
      "imdbRating": 7.4,
      "runtime": 66,
      "language": "English",
-     "youtubeId": "4hZi5QaMBFc",
+     "youtubeId": "${el.language}",
      "summary": "Patton Oswald, despite a personal tragedy, produces his best standup yet. Focusing on the tribulations of the Trump era and life after the loss of a loved one, Patton Oswald continues his journey to contribute joy to the world.",
      "smallThumbnail": "http://i3.ytimg.com/vi/4hZi5QaMBFc/hqdefault.jpg",
      "bigThumbnail": "http://i3.ytimg.com/vi/4hZi5QaMBFc/maxresdefault.jpg"
